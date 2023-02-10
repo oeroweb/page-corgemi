@@ -30,9 +30,8 @@
     <div class="slider-square slider">
         <img src="assets/img/servicios/servicio_1.jpg" alt="">
         <img src="assets/img/servicios/servicio_2.jpg" alt="">
-        <img src="assets/img/servicios/servicio_3.jpg" alt="">
-        <img src="assets/img/servicios/servicio_4.jpg" alt="">
-        <img src="assets/img/servicios/servicio_5.jpg" alt="">
+        <img src="assets/img/servicios/servicio_3.jpg" alt="">        
+        <img src="assets/img/servicios/servicio_4.jpg" alt="">        
         <!-- <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
           <source src="assets/videos/Motivación.mp4" type="video/mp4">
         </video> -->
